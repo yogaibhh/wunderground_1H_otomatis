@@ -1,8 +1,8 @@
-# **Weather Data Logger using Weather.com API**
+# **Weather Data Logger using Wunderground API**
 
 ## **Overview**
 
-This project is a Python script designed to fetch real-time weather data from a weather station via the Weather.com API and save it into a CSV file. The data includes parameters such as temperature, humidity, wind speed, wind direction, precipitation rate, pressure, and solar radiation. 
+This project is a Python script designed to fetch real-time weather data from a weather station via the Wunderground API and save it into a CSV file. The data includes parameters such as temperature, humidity, wind speed, wind direction, precipitation rate, pressure, and solar radiation. 
 
 ## **Features**
 
